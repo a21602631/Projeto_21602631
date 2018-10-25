@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto_21602631</string>
+    <string name="cilindrada">Escolha a Cilindra:</string>
+    <string name="cil1">até 1.250</string>
+    <string name="cil2">mais de 1.250 até 1.750</string>
+    <string name="cil3">mais de 1.750 até 2.500</string>
+    <string name="cil4">mais de 2.500</string>
+    <string name="CO2">Escolha a Emissão:</string>
+    <string name="Em1">até 120</string>
+    <string name="Em2">mais de 120 até 180</string>
+    <string name="Em3">mais de 180 até 250 </string>
+    <string name="Em4">mais de 250</string>
+    <string name="Calcular">Calcular IUC</string>
+</resources>
